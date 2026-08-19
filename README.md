@@ -36,4 +36,4 @@ Neste projeto, foquei em resolver problemas reais de engenharia front-end:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/pablogahh/Dessa_Lens.git](https://github.com/pablogahh/Dessa_Lens.git)
+   git clone [https://github.com/pablogahh/Dessa_Lens.git] (https://pablogahh.github.io/Dessa_Lens/)
